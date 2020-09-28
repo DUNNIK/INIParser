@@ -19,9 +19,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2065737-daa8-48fa-a329-aeaca2bbdf9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.INIParser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.INIParser/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e2065737-daa8-48fa-a329-aeaca2bbdf9c" name="Default Changelist" comment="Finish Lab1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,8 +116,16 @@
       <workItem from="1601236124885" duration="3181000" />
       <workItem from="1601274171971" duration="10128000" />
       <workItem from="1601299167172" duration="7410000" />
-      <workItem from="1601319357147" duration="477000" />
+      <workItem from="1601319357147" duration="840000" />
     </task>
+    <task id="LOCAL-00001" summary="Finish Lab1">
+      <created>1601319841499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601319841499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +159,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Finish Lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish Lab1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="517" y="237" key="#Notifications" timestamp="1601319833282">
@@ -280,10 +287,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600710556969" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600711757952">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601319844663">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600711757952" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601319844663" />
     <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1601047581620">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
